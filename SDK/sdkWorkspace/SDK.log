@@ -1,0 +1,10 @@
+09:48:32.736 INFO  - Processing command line option -hwspec C:\materija\RA167-2015\lab3\SDK\SDK_Export\hw\system.xml. 
+10:00:29.865 ERROR - FPGA Configuration failed.Failed to download the bit file
+
+    DONE bit didn't go HIGH after programming FPGA
+ 
+10:01:52.379 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+10:08:50.730 INFO  - Processing command line option -hwspec C:\materija\RA167-2015\lab3\SDK\SDK_Export\hw\system.xml. 
+10:08:55.800 INFO  - Updating .bit and .bmm files from XPS's export folder. 
+10:14:19.906 INFO  - Copied contents of C:\materija\RA167-2015\lab3\SDK\SDK_Export\hw\system.bit into \lab3_hw_platform\system.bit. 
+10:14:19.906 INFO  - Copied contents of C:\materija\RA167-2015\lab3\SDK\SDK_Export\hw\system_bd.bmm into \lab3_hw_platform\system_bd.bmm. 
